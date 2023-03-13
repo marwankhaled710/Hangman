@@ -1,0 +1,10 @@
+﻿  hangman.cpp
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(200,11): warning C4018: '<=': signed/unsigned mismatch
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(200,41): warning C4018: '<=': signed/unsigned mismatch
+D:\marwan\My projects\Hangman(DS)\project hangman fi\ConsoleApplication17\hangman.cpp(207,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  ConsoleApplication17.vcxproj -> D:\marwan\My projects\Hangman(DS)\project hangman fi\Debug\ConsoleApplication17.exe
